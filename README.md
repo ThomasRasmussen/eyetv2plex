@@ -1,6 +1,8 @@
 eyetv2plex
 ==========
 
+THIS CODE IS NO LONGER MAINTAINED
+
 Copy files from EyeTV Archive to Plex Folder
 
 This project is heavily inspired by https://github.com/miyagawa/eyetv-plex/blob/master/eyetvscan 
